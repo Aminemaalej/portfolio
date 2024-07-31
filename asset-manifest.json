@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.56fe076d.css",
-    "main.js": "/portfolio/static/js/main.a1d4c53d.js",
+    "main.js": "/portfolio/static/js/main.bd59db81.js",
     "static/css/64.bba8fa55.chunk.css": "/portfolio/static/css/64.bba8fa55.chunk.css",
     "static/js/64.41912c0a.chunk.js": "/portfolio/static/js/64.41912c0a.chunk.js",
     "static/css/769.b3cbb36b.chunk.css": "/portfolio/static/css/769.b3cbb36b.chunk.css",
     "static/js/769.6b18baac.chunk.js": "/portfolio/static/js/769.6b18baac.chunk.js",
     "static/media/Montserrat-Regular.ttf": "/portfolio/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
-    "static/media/MAALEJ-Amine_CV.pdf": "/portfolio/static/media/MAALEJ-Amine_CV.7270efd83c0af287b561.pdf",
+    "static/media/MAALEJ-Amine_CV.pdf": "/portfolio/static/media/MAALEJ-Amine_CV.a36d35c5215becd4e543.pdf",
     "static/media/Agustina.woff": "/portfolio/static/media/Agustina.eb0c59dda4cc308cba96.woff",
     "static/media/iitLogo.png": "/portfolio/static/media/iitLogo.3dc5babbf933e84ba4b6.png",
     "static/media/awssysops.png": "/portfolio/static/media/awssysops.f0fc8b313b989e1b9018.png",
@@ -22,7 +22,7 @@
     "index.html": "/portfolio/index.html",
     "static/media/talksCardBack.svg": "/portfolio/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
     "main.56fe076d.css.map": "/portfolio/static/css/main.56fe076d.css.map",
-    "main.a1d4c53d.js.map": "/portfolio/static/js/main.a1d4c53d.js.map",
+    "main.bd59db81.js.map": "/portfolio/static/js/main.bd59db81.js.map",
     "64.bba8fa55.chunk.css.map": "/portfolio/static/css/64.bba8fa55.chunk.css.map",
     "64.41912c0a.chunk.js.map": "/portfolio/static/js/64.41912c0a.chunk.js.map",
     "769.b3cbb36b.chunk.css.map": "/portfolio/static/css/769.b3cbb36b.chunk.css.map",
@@ -30,6 +30,6 @@
   },
   "entrypoints": [
     "static/css/main.56fe076d.css",
-    "static/js/main.a1d4c53d.js"
+    "static/js/main.bd59db81.js"
   ]
 }
