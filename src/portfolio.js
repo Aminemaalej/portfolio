@@ -19,7 +19,7 @@ const greeting = {
   username: "Amine Maalej",
   title: "Hello, I'm Amine",
   subTitle: emoji(
-    "A passionate Infrastructure engineer 🚀 experienced in DevOps, SRE and Cloud Security."
+    "A passionate Bilingual cloud engineer 🚀 experienced in DevOps, SRE and Cloud Security."
   ),
   resumeLink:
     "https://drive.google.com/file/d/1YwDWWd_DlhGTJalVJQUFlufK9o4cMh1B/view?usp=drive_link",
@@ -39,14 +39,14 @@ const socialMediaLinks = {
 
 const skillsSection = {
   title: "What do I do",
-  subTitle: "Automate stuff and make sure servers are healthy and happy",
+  subTitle: "Automate stuff and make sure servers are healthy and customers are happy",
   skills: [
     emoji(
-      "⚡ orchestrates the symphony of code, infrastructure, and automation to create harmony in the tech universe."
+      "⚡ Orchestrates the symphony of code, infrastructure, and automation to create harmony in the tech universe."
     ),
-    emoji("⚡ uses the power of automation and resilience to keep systems dancing smoothly through the chaos of the digital realm."),
+    emoji("⚡ Builds strong defenses in the cloud to protect data from cyber threats."),
     emoji(
-      "⚡ builds strong defenses in the cloud to protect data from cyber threats."
+      "⚡ Engineers tailored cloud solutions to elevate customer experience and ensure exceptional satisfaction."
     )
   ],
 
@@ -155,7 +155,7 @@ const workExperiences = {
       ]
     },
     {
-      role: "Infrastructure Engineer",
+      role: "Cloud SRE Engineer",
       company: "Rewind",
       companylogo: require("./assets/images/rewindLogo.png"),
       date: "January 2022 – March 2023",
@@ -168,7 +168,7 @@ const workExperiences = {
       ]
     },
     {
-      role: "Infrastructure Engineer",
+      role: "Cloud Security Engineer",
       company: "Recollective",
       companylogo: require("./assets/images/recollectiveLogo.png"),
       date: "April 2023 – Present",
